@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4577f7a7.css",
+    "main.js": "/static/js/main.6dcd2316.js",
+    "static/media/Inter-Bold.woff": "/static/media/Inter-Bold.93c1301bd9f486c573b3.woff",
+    "static/media/Inter-Medium.woff": "/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
+    "static/media/Inter-Black.woff": "/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Montserrat-Regular.woff": "/static/media/Montserrat-Regular.3db65dc4b858f0fed4fb.woff",
+    "static/media/Montserrat-SemiBold.woff": "/static/media/Montserrat-SemiBold.197213592de7a2a62e06.woff",
+    "static/media/Montserrat-Light.woff": "/static/media/Montserrat-Light.be142e6c3747b7b87e60.woff",
+    "static/media/Inter-Regular.woff": "/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Bold.woff2": "/static/media/Inter-Bold.ec64ea577b0349e055ad.woff2",
+    "static/media/Inter-Medium.woff2": "/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
+    "static/media/Inter-Black.woff2": "/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2": "/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/Montserrat-Regular.woff2": "/static/media/Montserrat-Regular.8b56391ed36ea95337c6.woff2",
+    "static/media/Montserrat-SemiBold.woff2": "/static/media/Montserrat-SemiBold.1d679c8257a6a9caa9bd.woff2",
+    "static/media/Montserrat-Light.woff2": "/static/media/Montserrat-Light.cf7b6a954e570df2f420.woff2",
+    "static/media/logo_welbex.svg": "/static/media/logo_welbex.2e08d1bd108cb8b2aee116b1817d851e.svg",
+    "static/media/wa.svg": "/static/media/wa.42088da2e5cdc5ef68593c4fe16e0bc3.svg",
+    "static/media/vb.svg": "/static/media/vb.197e093d2628608efd0d66711a18bfdc.svg",
+    "static/media/tg.svg": "/static/media/tg.b2afac6e3c94eec4775ef51d51af41f9.svg",
+    "index.html": "/index.html",
+    "main.4577f7a7.css.map": "/static/css/main.4577f7a7.css.map",
+    "main.6dcd2316.js.map": "/static/js/main.6dcd2316.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4577f7a7.css",
+    "static/js/main.6dcd2316.js"
+  ]
+}

@@ -1,0 +1,124 @@
+.content {
+  position: relative;
+
+  @media screen and (max-width: 767px) {
+    overflow: hidden;
+    background: radial-gradient(238.53% 189.02% at 3.2% 3.49%, rgba(255, 246, 233, 0.1) 0%, rgba(26, 29, 35, 0.1) 26.62%, rgba(26, 29, 35, 0.1) 52.1%, rgba(26, 29, 35, 0.01) 70.17%, rgba(26, 29, 35, 0) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+    backdrop-filter: blur(7.5px);
+    // mix-blend-mode: overlay;
+  }
+
+  &__decoration-1 {
+    z-index: -1;
+    position: absolute;
+    width: 83px;
+    height: 83px;
+    left: 370px;
+    top: -122px;
+    border-radius: 50%;
+    background: radial-gradient(64% 64% at 27.25% 26.5%, rgba(255, 208, 208, 0.536) 0%, rgba(212, 93, 93, 0.264) 59.67%, rgba(167, 49, 49, 0.248) 78.59%, rgba(130, 25, 25, 0.248) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+    box-shadow: 3px 6px 27px -10px rgba(223, 125, 125, 0.25);
+    backdrop-filter: blur(2px);
+
+    @media screen and (max-width: 767px) {
+      width: 43px;
+      height: 43px;
+      left: 29px;
+      top: 402px;
+      filter: blur(5px);
+    }
+  }
+
+  &__decoration-2 {
+    z-index: -1;
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 710px;
+    top: -210px;
+    border-radius: 50%;
+    background: radial-gradient(64% 64% at 27.25% 26.5%, rgba(236, 208, 255, 0.64) 0%, rgba(161, 93, 207, 0.24) 59.67%, rgba(118, 49, 164, 0.208) 78.59%, rgba(86, 24, 128, 0.232) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+    box-shadow: 3px 6px 27px -10px rgba(177, 118, 217, 0.25);
+    filter: blur(5px);
+    backdrop-filter: blur(2px);
+
+    @media screen and (max-width: 767px) {
+      width: 40px;
+      height: 40px;
+      left: 296px;
+      top: 236px;
+    }
+  }
+
+  &__decoration-3 {
+    z-index: -1;
+    position: absolute;
+    width: 311px;
+    height: 311px;
+    left: -250px;
+    top: 50px;
+    border-radius: 50%;
+    background: #961A1A;
+    opacity: 0.5;
+    filter: blur(196px);
+
+    @media screen and (max-width: 767px) {
+      width: 211px;
+      height: 210px;
+      left: -55px;
+      top: 241px;
+    }
+  }
+
+  &__decoration-4 {
+    z-index: -1;
+    position: absolute;
+    width: 259px;
+    height: 259px;
+    left: 502px;
+    top: -354px;
+    border-radius: 50%;
+    background: #833AB4;
+    opacity: 0.5;
+    filter: blur(196px);
+
+    @media screen and (max-width: 767px) {
+      width: 259px;
+      height: 259px;
+      left: 258px;
+      top: 107px;
+    }
+  }
+
+  &__decoration-5 {
+    z-index: -1;
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    left: 700px;
+    top: 335px;
+    border-radius: 50%;
+    background: radial-gradient(64% 64% at 27.25% 26.5%, rgba(255, 208, 208, 0.48) 0%, rgba(212, 93, 93, 0.248) 59.67%, rgba(167, 49, 49, 0.264) 78.59%, rgba(130, 25, 25, 0.232) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+    box-shadow: 3px 6px 27px -10px rgba(223, 125, 125, 0.25);
+    filter: blur(2.5px);
+    backdrop-filter: blur(2px);
+  }
+
+  &__decoration-6 {
+    visibility: hidden;
+
+    @media screen and (max-width: 767px) {
+      visibility: visible;
+      z-index: -1;
+      position: absolute;
+      width: 200px;
+      height: 200px;
+      left: -66px;
+      top: 519px;
+      border-radius: 50%;
+      background: #FCB045;
+      opacity: 0.4;
+      filter: blur(196px);
+    }
+  }
+}

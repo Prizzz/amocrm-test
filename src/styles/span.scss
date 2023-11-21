@@ -1,0 +1,22 @@
+.uppercase {
+  text-transform: uppercase;
+}
+
+.montserrat {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.fw_600 {
+  font-weight: 600;
+}
+
+.fw_900 {
+  font-weight: 900;
+}
+
+.gradient {
+  background: linear-gradient(92deg, #FCB045 27.14%, #FF3F78 121.36%), #E4E5EA;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
